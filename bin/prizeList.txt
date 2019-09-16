@@ -1,0 +1,4 @@
+€1000,4,Prize1
+€10000,5,Prize2
+Trip to Donegal,4,Prize3
+Trip to Caribbean,4,Prize4
